@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 CUNY MSDS Program, DATA 622, Homework 3
-Created: October 2018
+Created: November 2019
 
-@author: Ilya Kats
+@author: Yohannes Deboch 
 
 This module reads Titanic data set from public GitHub or AWS S3.
 """
