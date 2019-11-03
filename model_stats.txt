@@ -1,0 +1,18 @@
+MODEL:
+LogisticRegression(C=0.30888435964774846, class_weight=None, dual=False,
+          fit_intercept=True, intercept_scaling=1, max_iter=100,
+          multi_class='ovr', n_jobs=1, penalty='l2', random_state=None,
+          solver='liblinear', tol=0.0001, verbose=0, warm_start=False)
+
+CONFUSION MATRIX:
+[[93  7]
+ [26 53]]
+
+CLASSIFICATION REPORT:
+             precision    recall  f1-score   support
+
+          0       0.78      0.93      0.85       100
+          1       0.88      0.67      0.76        79
+
+avg / total       0.83      0.82      0.81       179
+
