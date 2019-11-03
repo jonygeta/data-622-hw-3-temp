@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 CUNY MSDS Program, DATA 622, Homework 3
-Created: October 2018
+Created: November 2019
 
-@author: Ilya Kats
+@author: Yohannes Deboch 
 
 This module validates data set, builds model trying to predict the outcome of 
 Titanic disaster for each passenger based on corresponding data features.
